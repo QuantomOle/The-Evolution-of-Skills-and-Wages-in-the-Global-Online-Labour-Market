@@ -2,4 +2,4 @@
 
 ## Master thesis research project at the Hertie School 
 
-Each folder contains the code and explanation for the respective task. 
+Each folder contains a notebook with the code and inline documentation. 
