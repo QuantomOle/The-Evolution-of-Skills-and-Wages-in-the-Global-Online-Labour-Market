@@ -1,4 +1,4 @@
-# The-Evolution-of-Skills-and-Wages-in-the-Global-Online-Labour-Market
+# Clicking or Thinking?  A Network Perspective on Skill Diversity and Wage Dynamics on Global Online Labour Platforms
 
 ## Master thesis research project at the Hertie School 
 
